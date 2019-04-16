@@ -1,0 +1,11 @@
+commit 2383c05f88dc50ee3e544162a6fe408fdd60e3be
+Author: Aleksandar Pandiloski <a.pandiloski@gmail.com>
+Date:   Tue Apr 16 12:11:40 2019 +0200
+
+    modify l1.txt
+
+commit 0a9391e4fc5696fe847c66e5f9058afec5a657b7
+Author: Aleksandar Pandiloski <a.pandiloski@gmail.com>
+Date:   Tue Apr 16 12:10:47 2019 +0200
+
+    Initial commit
