@@ -1,0 +1,85 @@
+mkdir lab1
+cd lab1
+git init
+git commit -m "Initial commit"
+git log
+git logs
+git log
+git add l1.txt
+git commit -m "Initial commit"
+git status
+nano l1.txt
+git diff
+  420  git commit -m "modify l1.txt"
+  421  git add l1.txt
+  422  git commit -m "modify l1.txt"
+  423  git remote add origin https://github.com/ratataDatome/git-l1
+  424  git remote -v
+  425  git push -u origin master
+  426  nano l1.txt
+  427  git diff
+  428  git checkout -- l1.txt
+  429  git diff
+  430  git branch logging
+  431  git checkout logging
+  432  touch log.txt
+  433  nano log.txt
+  434  git push -u origin logging
+  435  git status
+  436  git add log.txt
+  437  git push -u origin logging
+  438  git status
+  439  git push -u origin logging
+  440  mkdir lab1
+  441  cd lab1
+  442  git init
+  443  touch l1.txt
+  444  nano l1.txt
+  445  git add l1.txt
+  446  git commit -m "Initial commit"
+  447  git nano l1.txt
+  448  nano l1.txt
+  449  git diff
+  450  git add l1.txt
+  451  git commit -m "modify l1.txt"
+  452  git remote add origin https://github.com/ratataDatome/git-l1
+  453  git remote -v
+  454  git push -u origin master
+  455  git status
+  456  git nano l1.txt
+  457  nano l1.txt
+  458  git diff
+  459  git checkout -- l1.txt
+  460  git diff
+  461  git status
+  462  git branch logging
+  463  git checkout logging
+  464  touch log.txt
+  465  nano log.txt
+  466  git add log.txt
+  467  git push -u origin logging
+  468  git checkout master
+  469  git chekout master
+  470  git checkout logging
+  471  ls
+  472  git status
+  473  git commit -m "log"
+  474  git push -u origin logging
+  475  git status
+  476  git checkout master
+  477  git merge logging
+  478  git push -u origin master
+  479  git status
+  480  git branch allcomands
+  481  git checkout allcomands
+  482  touch commands.txt
+  483  nano commands.txt
+  484  nano comands.txt
+  485  nano commands.txt
+  486  history
+  487  git reflog --all
+  488  nano commands.txt
+  489  history > lab1
+  490  history > C:/Users/apand/lab1/.git/
+  491  git status -s
+  492  git status lab1
